@@ -1,1 +1,1 @@
-Парсер историй по тегам с сайта ideer.ru
+Parser of stories from ideer.ru with selected tags
